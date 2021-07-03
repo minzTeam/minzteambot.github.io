@@ -3,11 +3,7 @@ html{
 }
 
 body {
-  background: -webkit-linear-gradient(200deg, #00C4FF, #9D1BB2);
-  background: linear-gradient(205deg, #00C4FF, #9D1BB2);
-  height: 100vh;
-  margin: 0; 
-  padding: 0;
+  background: #000000;
 }
 
 .dark {
