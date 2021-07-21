@@ -1,2 +1,0 @@
-# liff
-Public Liff
